@@ -8,7 +8,7 @@ The plugin is designed to reduce the learning curve for newcomers while also imp
 
 This plugin was developed as part of a Google Summer of Code 2025 project.
 
-## Getting started
+#### Getting started
 
 To get up and running with the **AI Chatbot for Jenkins** plugin, this repository provides a set of `Makefile` targets that streamline key development flows such as running the data pipeline, launching the API, building the frontend, and executing tests.
 
